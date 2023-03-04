@@ -1,0 +1,14 @@
+body{
+  background-color: pink;
+  font-family:segoe print;
+}
+h1{
+  background-color:violet;
+  box-shadow: 10px 5px 5px gray;
+  border: 2px solid;
+}
+img{
+  float:left;
+  box-shadow: 10px 5px 5px gray;
+  border: 2px solid;
+}
